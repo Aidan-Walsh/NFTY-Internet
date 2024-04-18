@@ -1,0 +1,13 @@
+# Sample /etc/logrotate.d/suricata configuration file.
+/proj/netsyn-PG0/Aidan_W/suricata-6.0.2/log/suricata/*.log /proj/netsyn-PG0/Aidan_W/suricata-6.0.2/log/suricata/*.json {
+    daily
+    missingok
+    rotate 5
+    compress
+    delaycompress
+    minsize 500k
+    sharedscripts
+    postrotate
+        /bin/kill -HUP `cat /proj/netsyn-PG0/Aidan_W/suricata-6.0.2/run/suricata.pid 2> /dev/null` 2> /dev/null || true
+    endscript
+}

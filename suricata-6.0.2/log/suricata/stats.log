@@ -1,0 +1,973 @@
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:07:09 (uptime: 0d, 00h 00m 08s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 10000
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:07:17 (uptime: 0d, 00h 00m 16s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 11
+decoder.bytes                                 | Total                     | 770
+decoder.ipv4                                  | Total                     | 11
+decoder.tcp                                   | Total                     | 11
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 11
+ips.accepted                                  | Total                     | 11
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:07:25 (uptime: 0d, 00h 00m 24s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 137
+decoder.bytes                                 | Total                     | 9590
+decoder.ipv4                                  | Total                     | 137
+decoder.tcp                                   | Total                     | 137
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 137
+ips.accepted                                  | Total                     | 137
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:07:33 (uptime: 0d, 00h 00m 32s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 562
+decoder.bytes                                 | Total                     | 39340
+decoder.ipv4                                  | Total                     | 562
+decoder.tcp                                   | Total                     | 562
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 562
+ips.accepted                                  | Total                     | 562
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:07:41 (uptime: 0d, 00h 00m 40s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 1276
+decoder.bytes                                 | Total                     | 89320
+decoder.ipv4                                  | Total                     | 1276
+decoder.tcp                                   | Total                     | 1276
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 1276
+ips.accepted                                  | Total                     | 1276
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:07:49 (uptime: 0d, 00h 00m 48s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 1954
+decoder.bytes                                 | Total                     | 136780
+decoder.ipv4                                  | Total                     | 1954
+decoder.tcp                                   | Total                     | 1954
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 1954
+ips.accepted                                  | Total                     | 1954
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:07:57 (uptime: 0d, 00h 00m 56s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 2993
+decoder.bytes                                 | Total                     | 209510
+decoder.ipv4                                  | Total                     | 2993
+decoder.tcp                                   | Total                     | 2993
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 2993
+ips.accepted                                  | Total                     | 2993
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:08:05 (uptime: 0d, 00h 01m 04s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 4523
+decoder.bytes                                 | Total                     | 316610
+decoder.ipv4                                  | Total                     | 4523
+decoder.tcp                                   | Total                     | 4523
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 4523
+ips.accepted                                  | Total                     | 4523
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:08:13 (uptime: 0d, 00h 01m 12s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 5667
+decoder.bytes                                 | Total                     | 396690
+decoder.ipv4                                  | Total                     | 5667
+decoder.tcp                                   | Total                     | 5667
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 5667
+ips.accepted                                  | Total                     | 5667
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:08:21 (uptime: 0d, 00h 01m 20s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 7673
+decoder.bytes                                 | Total                     | 537110
+decoder.ipv4                                  | Total                     | 7673
+decoder.tcp                                   | Total                     | 7673
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 7673
+ips.accepted                                  | Total                     | 7673
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:08:29 (uptime: 0d, 00h 01m 28s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 9825
+decoder.bytes                                 | Total                     | 687750
+decoder.ipv4                                  | Total                     | 9825
+decoder.tcp                                   | Total                     | 9825
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 9825
+ips.accepted                                  | Total                     | 9825
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:08:37 (uptime: 0d, 00h 01m 36s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 11453
+decoder.bytes                                 | Total                     | 801710
+decoder.ipv4                                  | Total                     | 11453
+decoder.tcp                                   | Total                     | 11453
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 11453
+ips.accepted                                  | Total                     | 11453
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:08:45 (uptime: 0d, 00h 01m 44s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 14037
+decoder.bytes                                 | Total                     | 982590
+decoder.ipv4                                  | Total                     | 14037
+decoder.tcp                                   | Total                     | 14037
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 14037
+ips.accepted                                  | Total                     | 14037
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:08:53 (uptime: 0d, 00h 01m 52s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 16877
+decoder.bytes                                 | Total                     | 1181390
+decoder.ipv4                                  | Total                     | 16877
+decoder.tcp                                   | Total                     | 16877
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 16877
+ips.accepted                                  | Total                     | 16877
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:01 (uptime: 0d, 00h 02m 00s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 18782
+decoder.bytes                                 | Total                     | 1314740
+decoder.ipv4                                  | Total                     | 18782
+decoder.tcp                                   | Total                     | 18782
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 18782
+ips.accepted                                  | Total                     | 18782
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:09 (uptime: 0d, 00h 02m 08s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 22038
+decoder.bytes                                 | Total                     | 1542660
+decoder.ipv4                                  | Total                     | 22038
+decoder.tcp                                   | Total                     | 22038
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 22038
+ips.accepted                                  | Total                     | 22038
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:17 (uptime: 0d, 00h 02m 16s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:25 (uptime: 0d, 00h 02m 24s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:33 (uptime: 0d, 00h 02m 32s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:41 (uptime: 0d, 00h 02m 40s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:49 (uptime: 0d, 00h 02m 48s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:09:57 (uptime: 0d, 00h 02m 56s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:10:05 (uptime: 0d, 00h 03m 04s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:10:13 (uptime: 0d, 00h 03m 12s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:10:21 (uptime: 0d, 00h 03m 20s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:10:29 (uptime: 0d, 00h 03m 28s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:10:37 (uptime: 0d, 00h 03m 36s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:10:45 (uptime: 0d, 00h 03m 44s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:10:53 (uptime: 0d, 00h 03m 52s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:01 (uptime: 0d, 00h 04m 00s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:09 (uptime: 0d, 00h 04m 08s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:17 (uptime: 0d, 00h 04m 16s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:25 (uptime: 0d, 00h 04m 24s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:33 (uptime: 0d, 00h 04m 32s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:41 (uptime: 0d, 00h 04m 40s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:49 (uptime: 0d, 00h 04m 48s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:11:57 (uptime: 0d, 00h 04m 56s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9900
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 1
+flow.mgr.flows_notimeout                      | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:12:05 (uptime: 0d, 00h 05m 04s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 24647
+decoder.bytes                                 | Total                     | 1725290
+decoder.ipv4                                  | Total                     | 24647
+decoder.tcp                                   | Total                     | 24647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 1
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 1
+tcp.syn                                       | Total                     | 24647
+ips.accepted                                  | Total                     | 24647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9901
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 2
+flow.mgr.flows_notimeout                      | Total                     | 1
+flow.mgr.flows_timeout                        | Total                     | 1
+flow.mgr.flows_evicted                        | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:12:13 (uptime: 0d, 00h 05m 12s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 29647
+decoder.bytes                                 | Total                     | 2075290
+decoder.ipv4                                  | Total                     | 29647
+decoder.tcp                                   | Total                     | 29647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 2
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 2
+tcp.syn                                       | Total                     | 29647
+ips.accepted                                  | Total                     | 29647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9901
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 2
+flow.mgr.flows_notimeout                      | Total                     | 1
+flow.mgr.flows_timeout                        | Total                     | 1
+flow.mgr.flows_evicted                        | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304
+------------------------------------------------------------------------------------
+Date: 3/19/2024 -- 22:12:20 (uptime: 0d, 00h 05m 19s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+decoder.pkts                                  | Total                     | 29647
+decoder.bytes                                 | Total                     | 2075290
+decoder.ipv4                                  | Total                     | 29647
+decoder.tcp                                   | Total                     | 29647
+decoder.avg_pkt_size                          | Total                     | 70
+decoder.max_pkt_size                          | Total                     | 70
+flow.tcp                                      | Total                     | 2
+flow.wrk.spare_sync_avg                       | Total                     | 100
+flow.wrk.spare_sync                           | Total                     | 1
+tcp.sessions                                  | Total                     | 2
+tcp.syn                                       | Total                     | 29647
+ips.accepted                                  | Total                     | 29647
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.spare                                    | Total                     | 9901
+flow.mgr.rows_maxlen                          | Total                     | 1
+flow.mgr.flows_checked                        | Total                     | 2
+flow.mgr.flows_notimeout                      | Total                     | 1
+flow.mgr.flows_timeout                        | Total                     | 1
+flow.mgr.flows_evicted                        | Total                     | 1
+tcp.memuse                                    | Total                     | 573440
+tcp.reassembly_memuse                         | Total                     | 98304
+flow.memuse                                   | Total                     | 7394304

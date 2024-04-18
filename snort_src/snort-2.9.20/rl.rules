@@ -1,0 +1,2 @@
+drop tcp any any -> $HOME_NET any (msg:"LOCAL DOS, Potential DOS"; flow:to_server;  detection_filter: track by_src, count 5000000, seconds 5; sid:5; flags:S;) 
+# content: "abc"; nocase;)

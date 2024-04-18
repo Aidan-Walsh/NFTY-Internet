@@ -1,0 +1,1 @@
+drop udp any any -> $HOME_NET any (msg:"LOCAL DOS, Potential DOS"; flow:to_server; threshold: type both, track by_src, count 5000000, seconds 5; classtype:misc-activity; sid:5;flags:S,12;) 
